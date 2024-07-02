@@ -212,15 +212,10 @@ IT.
 
 ## :star: My Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height=200 alt="Andrey's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AndreyBaglai&show_icons=true&theme=dark#gh-dark-mode-only"/>
-</a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" height=200 alt="Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBaglai&layout=compact&theme=dark#gh-light-mode-only"/>
-</a>
+[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyBaglai&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBaglai&layout=compact&card_width=468&theme=dark#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
