@@ -1,5 +1,5 @@
 <a href="https://github.com/AndreyBaglai">
-  <img src="https://miro.medium.com/v2/resize:fit:2906/1*mBGS86BslY71XiRkJ4gxXQ.png" alt="preview photo" align="center" width="100%" height="250px" />
+  <img src="https://github.com/AndreyBaglai/AndreyBaglai/blob/main/intro.gif" alt="intro" align="center" width="100%" height="250px" />
 </a>
 
 <h1 align="left">Hello there! I'm Andrey Baglay :wave:</h1>
