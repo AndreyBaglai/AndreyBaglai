@@ -85,6 +85,12 @@ IT.
       </a>
       <br>Jest
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack" >
+        <img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Testing Library
+    </td>
   </tr> 
 </table>
 
